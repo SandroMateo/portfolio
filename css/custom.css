@@ -10,3 +10,12 @@
 .panel-heading {
   text-align: center;
 }
+
+.glyphicon {
+  float: left;
+  font-size: 4em;
+}
+
+ol {
+  margin-right: 10%;
+}
