@@ -1,5 +1,19 @@
+body {
+  background:linear-gradient(0deg, white, red);
+}
+
 #opener {
   text-align: center;
+  padding-top: 5%;
+}
+
+.jumbotron img {
+  border: 5px ridge black;
+}
+
+span {
+  font-weight: bolder;
+  font-style: oblique;
 }
 
 .underline {
@@ -11,6 +25,18 @@
   text-align: center;
 }
 
+#ruins {
+  border: 2px solid black;
+  margin-top: 5%;
+  margin-bottom: 1%;
+}
+
+#israel {
+  border: 2px solid black;
+  margin-top: 20%;
+  margin-bottom: 11%;
+}
+
 .glyphicon {
   float: left;
   font-size: 4em;
@@ -18,4 +44,10 @@
 
 ol {
   margin-right: 10%;
+}
+
+ol img{
+  width: 50%;
+  float: right;
+  border: 2px solid black;
 }
